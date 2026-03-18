@@ -1,0 +1,8 @@
+[project]
+name = "frappe-telegram"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "crossplane==0.5.7",
+    "python-telegram-bot==13.7",
+]
